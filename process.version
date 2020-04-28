@@ -1,0 +1,5 @@
+Welcome to Node.js v12.14.0.
+Type ".help" for more information.
+> > Thrown:
+ReferenceError: node is not defined
+> > > > > > 
